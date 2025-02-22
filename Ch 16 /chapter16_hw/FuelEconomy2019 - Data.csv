@@ -1,0 +1,384 @@
+Make,Model,Class,Combined MPG
+Aston Martin Lagonda Ltd,Vantage V8,Two Seaters,21
+Chevrolet,CORVETTE,Two Seaters,15
+Chevrolet,CORVETTE,Two Seaters,18
+Chevrolet,CORVETTE,Two Seaters,17
+Chevrolet,CORVETTE,Two Seaters,15
+Chevrolet,CORVETTE,Two Seaters,17
+Chevrolet,CORVETTE,Two Seaters,19
+"Ferrari North America, Inc.",488 gtb,Two Seaters,18
+"Ferrari North America, Inc.",488 gtb,Two Seaters,18
+"Ferrari North America, Inc.",488 Pista,Two Seaters,17
+"Ferrari North America, Inc.",488 Spider,Two Seaters,18
+"Ferrari North America, Inc.",488 Spider,Two Seaters,18
+"Ferrari North America, Inc.",488 SS,Two Seaters,17
+"Ferrari North America, Inc.",812 Superfast,Two Seaters,13
+FIAT,124 Spider,Two Seaters,29
+FIAT,124 Spider,Two Seaters,30
+Jaguar,F-TYPE Convertible,Two Seaters,26
+Jaguar,F-TYPE Convertible,Two Seaters,23
+Jaguar,F-TYPE Convertible Manual,Two Seaters,19
+Jaguar,F-TYPE Coupe,Two Seaters,26
+Jaguar,F-TYPE Coupe,Two Seaters,23
+Jaguar,F-TYPE Coupe Manual,Two Seaters,19
+Jaguar,F-TYPE R AWD Convertible,Two Seaters,18
+Jaguar,F-TYPE R AWD Coupe,Two Seaters,18
+Jaguar,F-TYPE S AWD Convertible,Two Seaters,21
+Jaguar,F-TYPE S AWD Coupe,Two Seaters,21
+Jaguar,F-TYPE S Convertible,Two Seaters,22
+Jaguar,F-TYPE S Convertible Manual,Two Seaters,18
+Jaguar,F-TYPE S Coupe,Two Seaters,22
+Jaguar,F-TYPE S Coupe Manual,Two Seaters,18
+MAZDA,MX-5,Two Seaters,30
+MAZDA,MX-5,Two Seaters,29
+NISSAN,370Z,Two Seaters,22
+NISSAN,370Z,Two Seaters,20
+NISSAN,370Z Roadster,Two Seaters,21
+Porsche,Boxster,Two Seaters,25
+Porsche,Boxster,Two Seaters,24
+Porsche,Boxster GTS,Two Seaters,22
+Porsche,Boxster GTS,Two Seaters,21
+Porsche,Boxster S,Two Seaters,24
+Porsche,Boxster S,Two Seaters,22
+Porsche,Cayman,Two Seaters,25
+Porsche,Cayman,Two Seaters,24
+Porsche,Cayman GTS,Two Seaters,22
+Porsche,Cayman GTS,Two Seaters,21
+Porsche,Cayman S,Two Seaters,24
+Porsche,Cayman S,Two Seaters,22
+Aston Martin Lagonda Ltd,DB11 V12,Minicompact Cars,17
+Aston Martin Lagonda Ltd,DB11 V8,Minicompact Cars,20
+"Ferrari North America, Inc.",GTC4Lusso,Minicompact Cars,13
+"Ferrari North America, Inc.",GTC4Lusso T,Minicompact Cars,17
+"Ferrari North America, Inc.",Portofino,Minicompact Cars,18
+Mini,COOPER CONVERTIBLE,Minicompact Cars,30
+Mini,COOPER CONVERTIBLE,Minicompact Cars,31
+Mini,COOPER S CONVERTIBLE,Minicompact Cars,28
+Mini,COOPER S CONVERTIBLE,Minicompact Cars,26
+Mini,JOHN COOPER WORKS CONVERTIBLE,Minicompact Cars,28
+Mini,JOHN COOPER WORKS CONVERTIBLE,Minicompact Cars,25
+Porsche,911 Carrera,Minicompact Cars,25
+Porsche,911 Carrera,Minicompact Cars,23
+Porsche,911 Carrera 4,Minicompact Cars,24
+Porsche,911 Carrera 4,Minicompact Cars,23
+Porsche,911 Carrera 4 Cabriolet,Minicompact Cars,24
+Porsche,911 Carrera 4 Cabriolet,Minicompact Cars,22
+Porsche,911 Carrera 4 GTS,Minicompact Cars,22
+Porsche,911 Carrera 4 GTS,Minicompact Cars,21
+Porsche,911 Carrera 4 GTS Cabriolet,Minicompact Cars,22
+Porsche,911 Carrera 4 GTS Cabriolet,Minicompact Cars,21
+Porsche,911 Carrera 4S,Minicompact Cars,24
+Porsche,911 Carrera 4S,Minicompact Cars,23
+Porsche,911 Carrera 4S Cabriolet,Minicompact Cars,24
+Porsche,911 Carrera 4S Cabriolet,Minicompact Cars,22
+Porsche,911 Carrera Cabriolet,Minicompact Cars,24
+Porsche,911 Carrera Cabriolet,Minicompact Cars,23
+Porsche,911 Carrera GTS,Minicompact Cars,23
+Porsche,911 Carrera GTS,Minicompact Cars,21
+Porsche,911 Carrera GTS Cabriolet,Minicompact Cars,22
+Porsche,911 Carrera GTS Cabriolet,Minicompact Cars,21
+Porsche,911 Carrera S,Minicompact Cars,24
+Porsche,911 Carrera S,Minicompact Cars,23
+Porsche,911 Carrera S Cabriolet,Minicompact Cars,24
+Porsche,911 Carrera S Cabriolet,Minicompact Cars,23
+Porsche,911 Carrera T,Minicompact Cars,22
+Porsche,911 Carrera T,Minicompact Cars,19
+Porsche,911 Targa 4,Minicompact Cars,24
+Porsche,911 Targa 4,Minicompact Cars,22
+Porsche,911 Targa 4 GTS,Minicompact Cars,22
+Porsche,911 Targa 4 GTS,Minicompact Cars,21
+Porsche,911 Targa 4S,Minicompact Cars,24
+Porsche,911 Targa 4S,Minicompact Cars,22
+BMW,430i Convertible,Subcompact Cars,27
+BMW,430i xDrive Convertible,Subcompact Cars,26
+BMW,440i Convertible,Subcompact Cars,24
+BMW,440i xDrive Convertible,Subcompact Cars,23
+Buick,CASCADA,Subcompact Cars,24
+Chevrolet,SPARK,Subcompact Cars,33
+Chevrolet,SPARK,Subcompact Cars,33
+Chevrolet,SPARK ACTIV,Subcompact Cars,33
+Chevrolet,SPARK ACTIV,Subcompact Cars,32
+Ford,MUSTANG,Subcompact Cars,25
+Ford,MUSTANG,Subcompact Cars,25
+Ford,MUSTANG,Subcompact Cars,19
+Ford,MUSTANG,Subcompact Cars,18
+Ford,MUSTANG BULLITT,Subcompact Cars,18
+Ford,MUSTANG CONVERTIBLE,Subcompact Cars,23
+Ford,MUSTANG CONVERTIBLE,Subcompact Cars,23
+Ford,MUSTANG CONVERTIBLE,Subcompact Cars,18
+Ford,MUSTANG PERFORMANCE PACKAGE,Subcompact Cars,23
+Ford,MUSTANG PERFORMANCE PACKAGE,Subcompact Cars,23
+LEXUS,RC F,Subcompact Cars,19
+Mini,COOPER HARDTOP 2 DOOR,Subcompact Cars,30
+Mini,COOPER HARDTOP 2 DOOR,Subcompact Cars,32
+Mini,COOPER HARDTOP 4 DOOR,Subcompact Cars,30
+Mini,COOPER HARDTOP 4 DOOR,Subcompact Cars,31
+Mini,COOPER S HARDTOP 2 DOOR,Subcompact Cars,28
+Mini,COOPER S HARDTOP 2 DOOR,Subcompact Cars,26
+Mini,COOPER S HARDTOP 4 DOOR,Subcompact Cars,28
+Mini,COOPER S HARDTOP 4 DOOR,Subcompact Cars,26
+Mini,JOHN COOPER WORKS HARDTOP,Subcompact Cars,28
+Mini,JOHN COOPER WORKS HARDTOP,Subcompact Cars,26
+Acura,TLX AWD,Compact Cars,23
+Acura,TLX AWD A-SPEC,Compact Cars,23
+Acura,TLX FWD,Compact Cars,27
+Acura,TLX FWD,Compact Cars,24
+Acura,TLX FWD A-SPEC,Compact Cars,26
+Acura,TLX FWD A-SPEC,Compact Cars,23
+BMW,430i Coupe,Compact Cars,27
+BMW,430i Coupe,Compact Cars,25
+BMW,430i Gran Coupe,Compact Cars,27
+BMW,430i xDrive Coupe,Compact Cars,27
+BMW,430i xDrive Gran Coupe,Compact Cars,27
+BMW,440i Coupe,Compact Cars,25
+BMW,440i Coupe,Compact Cars,22
+BMW,440i Gran Coupe,Compact Cars,25
+BMW,440i xDrive Coupe,Compact Cars,24
+BMW,440i xDrive Coupe,Compact Cars,21
+BMW,440i xDrive Gran Coupe,Compact Cars,24
+BMW,640i Gran Coupe,Compact Cars,23
+BMW,640i xDrive Gran Coupe,Compact Cars,22
+BMW,650i Gran Coupe,Compact Cars,21
+BMW,650i xDrive Gran Coupe,Compact Cars,20
+BMW,Alpina B6 xDrive Gran Coupe,Compact Cars,20
+BMW,M6 Gran Coupe,Compact Cars,16
+BMW,M6 Gran Coupe,Compact Cars,17
+Cadillac,ATS-V,Compact Cars,20
+Cadillac,ATS-V,Compact Cars,19
+Chevrolet,CRUZE,Compact Cars,37
+GENESIS,G70 AWD,Compact Cars,23
+GENESIS,G70 AWD,Compact Cars,20
+GENESIS,G70 RWD,Compact Cars,25
+GENESIS,G70 RWD,Compact Cars,22
+GENESIS,G70 RWD,Compact Cars,21
+HYUNDAI MOTOR COMPANY,Accent,Compact Cars,32
+HYUNDAI MOTOR COMPANY,Accent,Compact Cars,31
+HYUNDAI MOTOR COMPANY,Veloster,Compact Cars,30
+HYUNDAI MOTOR COMPANY,Veloster,Compact Cars,29
+HYUNDAI MOTOR COMPANY,Veloster,Compact Cars,30
+HYUNDAI MOTOR COMPANY,Veloster,Compact Cars,28
+Jaguar,XE,Compact Cars,28
+Jaguar,XE,Compact Cars,24
+Jaguar,XE AWD,Compact Cars,28
+Jaguar,XE AWD,Compact Cars,23
+LEXUS,GS F,Compact Cars,19
+MAZDA,CX-3 2WD,Compact Cars,31
+MAZDA,CX-3 4WD,Compact Cars,29
+Subaru,WRX,Compact Cars,21
+Subaru,WRX,Compact Cars,23
+Subaru,WRX,Compact Cars,19
+TOYOTA,C-HR,Compact Cars,29
+TOYOTA,COROLLA HATCHBACK,Compact Cars,36
+TOYOTA,COROLLA HATCHBACK MANUAL,Compact Cars,31
+TOYOTA,COROLLA HATCHBACK XSE,Compact Cars,33
+Volkswagen,Jetta,Compact Cars,34
+Volkswagen,Jetta,Compact Cars,34
+"Volvo Cars of North America, LLC",S60 AWD,Compact Cars,25
+"Volvo Cars of North America, LLC",S60 FWD,Compact Cars,28
+Acura,RLX,Midsize Cars,28
+Acura,RLX,Midsize Cars,23
+BMW,530i,Midsize Cars,27
+Buick,LACROSSE,Midsize Cars,29
+Buick,LACROSSE,Midsize Cars,24
+Cadillac,CTS,Midsize Cars,19
+Chevrolet,CRUZE HATCHBACK,Midsize Cars,35
+Honda,INSIGHT,Midsize Cars,52
+Honda,INSIGHT TOURING,Midsize Cars,48
+INFINITI,Q70,Midsize Cars,21
+INFINITI,Q70,Midsize Cars,19
+INFINITI,Q70 AWD,Midsize Cars,20
+INFINITI,Q70 AWD,Midsize Cars,18
+Jaguar,XF,Midsize Cars,28
+Jaguar,XF,Midsize Cars,23
+Jaguar,XF AWD,Midsize Cars,27
+Jaguar,XF AWD,Midsize Cars,23
+Mini,COOPER CLUBMAN,Midsize Cars,27
+Mini,COOPER CLUBMAN,Midsize Cars,28
+Mini,COOPER CLUBMAN ALL4,Midsize Cars,26
+Mini,COOPER CLUBMAN ALL4,Midsize Cars,26
+Mini,COOPER COUNTRYMAN,Midsize Cars,27
+Mini,COOPER COUNTRYMAN,Midsize Cars,28
+Mini,COOPER COUNTRYMAN ALL4,Midsize Cars,25
+Mini,COOPER COUNTRYMAN ALL4,Midsize Cars,26
+Mini,COOPER S CLUBMAN,Midsize Cars,27
+Mini,COOPER S CLUBMAN,Midsize Cars,25
+Mini,COOPER S CLUBMAN ALL4,Midsize Cars,26
+Mini,COOPER S CLUBMAN ALL4,Midsize Cars,24
+Mini,COOPER S COUNTRYMAN,Midsize Cars,27
+Mini,COOPER S COUNTRYMAN ALL4,Midsize Cars,26
+Mini,COOPER S COUNTRYMAN ALL4,Midsize Cars,24
+Mini,JCW COUNTRYMAN ALL4,Midsize Cars,25
+Mini,JCW COUNTRYMAN ALL4,Midsize Cars,24
+Mini,JOHN COOPER WORKS CLUBMAN ALL4,Midsize Cars,26
+Mini,JOHN COOPER WORKS CLUBMAN ALL4,Midsize Cars,24
+Subaru,IMPREZA 4-Door,Midsize Cars,32
+Subaru,IMPREZA 4-Door,Midsize Cars,27
+Subaru,IMPREZA 4-Door SPORT,Midsize Cars,30
+Subaru,IMPREZA 4-Door SPORT,Midsize Cars,26
+TOYOTA,AVALON,Midsize Cars,25
+TOYOTA,AVALON HYBRID,Midsize Cars,43
+TOYOTA,AVALON HYBRID XLE,Midsize Cars,44
+TOYOTA,AVALON XLE,Midsize Cars,26
+TOYOTA,COROLLA,Midsize Cars,32
+TOYOTA,COROLLA,Midsize Cars,31
+TOYOTA,COROLLA,Midsize Cars,30
+TOYOTA,COROLLA LE ECO,Midsize Cars,34
+TOYOTA,COROLLA LE ECO,Midsize Cars,33
+"Volvo Cars of North America, LLC",S90 AWD,Midsize Cars,25
+"Volvo Cars of North America, LLC",S90 AWD,Midsize Cars,26
+"Volvo Cars of North America, LLC",S90 FWD,Midsize Cars,27
+BMW,740i,Large Cars,24
+BMW,740i xDrive,Large Cars,23
+BMW,750i,Large Cars,21
+BMW,750i xDrive,Large Cars,20
+BMW,Alpina B7 xDrive,Large Cars,20
+BMW,M760i xDrive,Large Cars,16
+Cadillac,XTS,Large Cars,22
+Cadillac,XTS AWD,Large Cars,20
+Cadillac,XTS AWD,Large Cars,18
+Chevrolet,IMPALA,Large Cars,25
+Chevrolet,IMPALA,Large Cars,22
+Chevrolet,IMPALA,Large Cars,22
+GENESIS,G80 AWD,Large Cars,20
+GENESIS,G80 AWD,Large Cars,20
+GENESIS,G80 AWD,Large Cars,18
+GENESIS,G80 RWD,Large Cars,20
+GENESIS,G80 RWD,Large Cars,21
+GENESIS,G80 RWD,Large Cars,19
+GENESIS,G90 AWD,Large Cars,20
+GENESIS,G90 AWD,Large Cars,18
+GENESIS,G90 RWD,Large Cars,20
+GENESIS,G90 RWD,Large Cars,19
+Jaguar,XJ,Large Cars,21
+Jaguar,XJ,Large Cars,18
+Jaguar,XJ AWD,Large Cars,20
+Jaguar,XJL,Large Cars,21
+Jaguar,XJL,Large Cars,18
+Jaguar,XJL AWD,Large Cars,20
+KIA MOTORS CORPORATION,Cadenza,Large Cars,23
+KIA MOTORS CORPORATION,Optima,Large Cars,31
+KIA MOTORS CORPORATION,Optima,Large Cars,24
+KIA MOTORS CORPORATION,Optima,Large Cars,27
+KIA MOTORS CORPORATION,Optima FE,Large Cars,29
+Acura,RDX FWD,Small SUV 2WD,24
+Acura,RDX FWD A-SPEC,Small SUV 2WD,24
+Buick,ENCORE,Small SUV 2WD,28
+Buick,ENVISION FWD,Small SUV 2WD,25
+Cadillac,XT5,Small SUV 2WD,22
+Chevrolet,EQUINOX FWD,Small SUV 2WD,28
+Chevrolet,EQUINOX FWD,Small SUV 2WD,32
+Chevrolet,EQUINOX FWD,Small SUV 2WD,25
+GMC,TERRAIN FWD,Small SUV 2WD,28
+GMC,TERRAIN FWD,Small SUV 2WD,32
+GMC,TERRAIN FWD,Small SUV 2WD,24
+HYUNDAI MOTOR COMPANY,Kona FWD,Small SUV 2WD,30
+HYUNDAI MOTOR COMPANY,Santa Fe FWD,Small SUV 2WD,25
+HYUNDAI MOTOR COMPANY,Santa Fe XL FWD,Small SUV 2WD,21
+HYUNDAI MOTOR COMPANY,Santa Fe XL Ultimate FWD,Small SUV 2WD,20
+INFINITI,QX50,Small SUV 2WD,27
+INFINITI,QX60 FWD,Small SUV 2WD,22
+Jeep,Cherokee FWD,Small SUV 2WD,26
+Jeep,Cherokee FWD,Small SUV 2WD,25
+Jeep,Cherokee FWD,Small SUV 2WD,23
+KIA MOTORS CORPORATION,Sorento FWD,Small SUV 2WD,25
+KIA MOTORS CORPORATION,Sorento FWD,Small SUV 2WD,22
+KIA MOTORS CORPORATION,Sportage FE FWD,Small SUV 2WD,25
+KIA MOTORS CORPORATION,Sportage FWD,Small SUV 2WD,23
+KIA MOTORS CORPORATION,Sportage FWD,Small SUV 2WD,25
+LEXUS,NX 300,Small SUV 2WD,25
+Lincoln,MKC  FWD,Small SUV 2WD,23
+Mitsubishi Motors Corporation,ECLIPSE CROSS 2WD,Small SUV 2WD,26
+Mitsubishi Motors Corporation,ECLIPSE CROSS ES 2WD,Small SUV 2WD,27
+"Volvo Cars of North America, LLC",XC40 FWD,Small SUV 2WD,27
+"Volvo Cars of North America, LLC",XC60 FWD,Small SUV 2WD,24
+Acura,RDX AWD,Small SUV 4WD,23
+Acura,RDX AWD A-SPEC,Small SUV 4WD,23
+BMW,X3 sDrive30i,Small SUV 4WD,26
+BMW,X3 xDrive30i,Small SUV 4WD,25
+BMW,X4 M40i,Small SUV 4WD,23
+BMW,X4 xDrive30i,Small SUV 4WD,25
+Buick,ENCORE AWD,Small SUV 4WD,27
+Buick,ENVISION AWD,Small SUV 4WD,22
+Buick,ENVISION AWD,Small SUV 4WD,24
+Cadillac,XT5 AWD,Small SUV 4WD,21
+Chevrolet,EQUINOX AWD,Small SUV 4WD,27
+Chevrolet,EQUINOX AWD,Small SUV 4WD,32
+Chevrolet,EQUINOX AWD,Small SUV 4WD,24
+GMC,TERRAIN AWD,Small SUV 4WD,26
+GMC,TERRAIN AWD,Small SUV 4WD,32
+GMC,TERRAIN AWD,Small SUV 4WD,23
+HYUNDAI MOTOR COMPANY,Kona AWD,Small SUV 4WD,27
+HYUNDAI MOTOR COMPANY,Santa Fe AWD,Small SUV 4WD,23
+HYUNDAI MOTOR COMPANY,Santa Fe XL AWD,Small SUV 4WD,20
+HYUNDAI MOTOR COMPANY,Santa Fe XL Ultimate AWD,Small SUV 4WD,19
+INFINITI,QX50 AWD,Small SUV 4WD,26
+INFINITI,QX60 AWD,Small SUV 4WD,22
+Jaguar,F-Pace,Small SUV 4WD,24
+Jaguar,F-Pace,Small SUV 4WD,20
+Jeep,Cherokee 4X4,Small SUV 4WD,24
+Jeep,Cherokee 4X4,Small SUV 4WD,24
+Jeep,Cherokee 4X4,Small SUV 4WD,22
+Jeep,Cherokee 4x4 Active Drive II,Small SUV 4WD,23
+Jeep,Cherokee 4x4 Active Drive II,Small SUV 4WD,21
+Jeep,Cherokee Trailhawk 4X4,Small SUV 4WD,22
+Jeep,Cherokee Trailhawk 4X4,Small SUV 4WD,21
+KIA MOTORS CORPORATION,Sorento AWD,Small SUV 4WD,23
+KIA MOTORS CORPORATION,Sorento AWD,Small SUV 4WD,21
+KIA MOTORS CORPORATION,Sportage AWD,Small SUV 4WD,21
+KIA MOTORS CORPORATION,Sportage AWD,Small SUV 4WD,23
+KIA MOTORS CORPORATION,Sportage FE AWD,Small SUV 4WD,22
+Land Rover,Range Rover Velar,Small SUV 4WD,23
+Land Rover,Range Rover Velar,Small SUV 4WD,20
+LEXUS,NX 300 AWD,Small SUV 4WD,24
+LEXUS,NX 300 AWD F SPORT,Small SUV 4WD,24
+LEXUS,NX 300h AWD,Small SUV 4WD,31
+Lincoln,MKC  AWD,Small SUV 4WD,22
+Lincoln,MKC  AWD,Small SUV 4WD,21
+Lincoln,MKC  AWD,Small SUV 4WD,20
+Mitsubishi Motors Corporation,ECLIPSE CROSS 4WD,Small SUV 4WD,25
+Mitsubishi Motors Corporation,ECLIPSE CROSS ES 4WD,Small SUV 4WD,26
+Subaru,CROSSTREK AWD,Small SUV 4WD,29
+Subaru,CROSSTREK AWD,Small SUV 4WD,25
+"Volvo Cars of North America, LLC",XC40 AWD,Small SUV 4WD,26
+"Volvo Cars of North America, LLC",XC60 AWD,Small SUV 4WD,22
+"Volvo Cars of North America, LLC",XC60 AWD,Small SUV 4WD,23
+Buick,ENCLAVE,Standard SUV 2WD,21
+Chevrolet,C1500 SUBURBAN 2WD,Standard SUV 2WD,18
+Chevrolet,C1500 SUBURBAN 2WD,Standard SUV 2WD,18
+Chevrolet,C1500 TAHOE 2WD,Standard SUV 2WD,18
+Chevrolet,C1500 TAHOE 2WD,Standard SUV 2WD,18
+Chevrolet,TRAVERSE FWD,Standard SUV 2WD,22
+Chevrolet,TRAVERSE FWD,Standard SUV 2WD,21
+Ford,Flex FWD,Standard SUV 2WD,19
+GMC,ACADIA FWD,Standard SUV 2WD,23
+GMC,ACADIA FWD,Standard SUV 2WD,21
+GMC,C1500 YUKON 2WD,Standard SUV 2WD,18
+GMC,C1500 YUKON 2WD,Standard SUV 2WD,18
+GMC,C1500 YUKON XL 2WD,Standard SUV 2WD,18
+GMC,C1500 YUKON XL 2WD,Standard SUV 2WD,18
+Lincoln,MKT FWD,Standard SUV 2WD,19
+"Volvo Cars of North America, LLC",XC90 FWD,Standard SUV 2WD,24
+Buick,ENCLAVE AWD,Standard SUV 4WD,20
+Cadillac,ESCALADE 4WD,Standard SUV 4WD,17
+Chevrolet,K1500 SUBURBAN 4WD,Standard SUV 4WD,16
+Chevrolet,K1500 SUBURBAN 4WD,Standard SUV 4WD,16
+Chevrolet,K1500 SUBURBAN 4WD,Standard SUV 4WD,16
+Chevrolet,K1500 TAHOE 4WD,Standard SUV 4WD,17
+Chevrolet,K1500 TAHOE 4WD,Standard SUV 4WD,17
+Chevrolet,K1500 TAHOE 4WD,Standard SUV 4WD,17
+Chevrolet,TRAVERSE AWD,Standard SUV 4WD,20
+Ford,FLEX AWD,Standard SUV 4WD,17
+Ford,FLEX AWD,Standard SUV 4WD,18
+GMC,ACADIA AWD,Standard SUV 4WD,22
+GMC,ACADIA AWD,Standard SUV 4WD,20
+GMC,K1500 YUKON 4WD,Standard SUV 4WD,17
+GMC,K1500 YUKON 4WD,Standard SUV 4WD,17
+GMC,K1500 YUKON 4WD,Standard SUV 4WD,17
+GMC,K1500 YUKON XL 4WD,Standard SUV 4WD,16
+GMC,K1500 YUKON XL 4WD,Standard SUV 4WD,16
+GMC,K1500 YUKON XL 4WD,Standard SUV 4WD,16
+Lincoln,MKT AWD,Standard SUV 4WD,17
+Subaru,ASCENT,Standard SUV 4WD,23
+Subaru,ASCENT LIMITED/TOURING,Standard SUV 4WD,22
+"Volvo Cars of North America, LLC",XC90 AWD,Standard SUV 4WD,22
+"Volvo Cars of North America, LLC",XC90 AWD,Standard SUV 4WD,23
